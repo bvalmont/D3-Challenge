@@ -8,6 +8,5 @@ The data is based on 2014 American Community Survey 1 year estimates and can be 
 The scatter plot represents each state in the United States using the circle element.  Each circle has the respective state's abbreviation in the circle.  The axis and labels are placed to the left and bottom of the chart.
 
 # Health vs Poverty Plot
-
-* ![](images/Healthcare.png)
+ ![](images/Healthcare.PNG)
 
