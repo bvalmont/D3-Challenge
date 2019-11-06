@@ -10,3 +10,7 @@ The scatter plot represents each state in the United States using the circle ele
 # Health vs Poverty Plot
  ![](images/Healthcare.PNG)
 
+# How to run:
+
+This project was run using a local server and the html will not run properly otherwise. The command below was used to run the local server.  The host page was viewed using localost:8000 after running the command.
+###### `python -m http.server`
